@@ -1,0 +1,59 @@
+/**
+ * @name Anime-X Theme
+ * @author ShineUA
+ * @version 1.0
+ * @description Cool anime theme.
+ * @authorId 1013867034884444160
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background: url('https://r4.wallpaperflare.com/wallpaper/961/176/973/anime-elsword-tyan-hd-wallpaper-28a62d9830c0ec18f08c019eb862548a.jpg');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 0px;
+  --popout: url('https://r4.wallpaperflare.com/wallpaper/961/176/973/anime-elsword-tyan-hd-wallpaper-28a62d9830c0ec18f08c019eb862548a.jpg');
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 0px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 151,34,57;
+  --backdrop: rgba(0,0,0,0.85);
+  --textshadow: transparent;
+  --transparencyalpha: 0.15;
+  --messagetransparency: 0.5;
+  --guildchanneltransparency: 0.15;
+  --chatinputtransparency: 0;
+  --memberlisttransparency: 0;
+  --font: Comfortaa;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 200,200,200;
+  --textdark: 160,160,160;
+  --textdarker: 125,125,125;
+  --textdarkest: 90,90,90;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
